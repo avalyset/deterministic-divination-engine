@@ -1,5 +1,8 @@
 # Deterministic Divination Engine
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20725174.svg)](https://doi.org/10.5281/zenodo.20725174)
+&nbsp;[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 En **deterministisk, algoritmisk** tolkningsmotor som mapper stemme-utledet input
 (dominante toner, intervaller, melodisk kontur) gjennom **8 esoteriske tradisjoner** til
 narrativ orakeltekst — justert av sanntids-astronomi, værdata og et I Ching-heksagram
@@ -93,10 +96,22 @@ npm run lexicon    # selvvalider den frosne lekkasje-vakten
 Motoren importeres direkte: `import { generateInterpretation } from "./src/interpret.js"`.
 Ingen byggesteg, ingen avhengigheter utover Node (ESM).
 
+## Sitering
+
+Dette snapshotet er permanent arkivert med DOI via Zenodo:
+
+- **Konsept-DOI** (peker alltid til nyeste versjon): [`10.5281/zenodo.20725174`](https://doi.org/10.5281/zenodo.20725174)
+- **Denne versjonen (v1.0.0)**: [`10.5281/zenodo.20725175`](https://doi.org/10.5281/zenodo.20725175)
+
+```
+Nicolaysen, E. B. (2026). Deterministic Divination Engine (v1.0.0).
+Zenodo. https://doi.org/10.5281/zenodo.20725175
+```
+
 ## Forfatter
 
 Eirik Botten Nicolaysen — EcoDeco AS.
-ORCID: *(legges til ved DOI-frys)*
+ORCID: [0009-0001-9188-6788](https://orcid.org/0009-0001-9188-6788)
 
 ## Lisens
 
