@@ -1,0 +1,22 @@
+{
+  "title": "Deterministic Divination Engine",
+  "description": "En deterministisk, algoritmisk tolkningsmotor som mapper stemme-utledet input gjennom 8 esoteriske tradisjoner til narrativ orakeltekst — uten språkmodell og uten ekstern AI-API. Frosset som metode (motor + datalag + frosset måleinstrument + maskinell evaluering med pre-registrerte terskler og bevart negativ-rapportering), ikke som kvalitets-påstand. Skilt ut fra applikasjonen Klangeller (EcoDeco AS).",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Nicolaysen, Eirik Botten",
+      "orcid": "0009-0001-9188-6788",
+      "affiliation": "EcoDeco AS"
+    }
+  ],
+  "version": "1.0.0",
+  "keywords": [
+    "deterministic generation",
+    "computational divination",
+    "reproducibility",
+    "pre-registration",
+    "esoteric traditions"
+  ]
+}
