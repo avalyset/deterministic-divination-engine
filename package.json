@@ -1,0 +1,12 @@
+{
+  "name": "deterministic-divination-engine",
+  "version": "0.1.0",
+  "description": "Deterministic, algorithmic divination interpretation engine — voice-derived input mapped across 8 esoteric traditions. No language model, no external AI API; reproducible output, measurable register-discipline.",
+  "type": "module",
+  "license": "MIT",
+  "author": "Eirik Botten Nicolaysen <eirik@ecodeco.no> (EcoDeco AS)",
+  "scripts": {
+    "eval": "node test/eval-corpus.mjs",
+    "lexicon": "node test/lexicon.mjs"
+  }
+}
